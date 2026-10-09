@@ -1,8 +1,8 @@
 # RClone Backup
 
 Лендинг проекта RClone Backup, публикуется через GitHub Pages:
-https://bbird1980.github.io/rclone-project-public/
+https://rclone.bbird.ru/
 
-- [Главная](https://bbird1980.github.io/rclone-project-public/)
-- [Privacy Policy](https://bbird1980.github.io/rclone-project-public/privacy.html)
-- [Terms of Service](https://bbird1980.github.io/rclone-project-public/terms.html)
+- [Главная](https://rclone.bbird.ru/)
+- [Privacy Policy](https://rclone.bbird.ru/privacy.html)
+- [Terms of Service](https://rclone.bbird.ru/terms.html)
